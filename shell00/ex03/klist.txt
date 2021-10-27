@@ -1,0 +1,5 @@
+Credentials cache: API:192BE246-F934-4034-8C8E-DEF2C8F486D8
+        Principal: masboula@42.FR
+
+  Issued                Expires               Principal
+Sep  7 12:08:05 2020  Sep 14 12:07:58 2020  krbtgt/42.FR@42.FR
